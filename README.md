@@ -1,7 +1,7 @@
 # Foodie Delight App
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/Ipsita83)
+[![Website Link](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://swiggy-phi.vercel.app/)
 ## Description
 
 Foodie Delight is a web application designed to help food enthusiasts discover new recipes, plan meals, and organize their culinary adventures. With a sleek and intuitive interface, users can easily browse through a vast collection of recipes, filter by cuisine or dietary preferences, and save their favorite dishes for later reference.
